@@ -26,9 +26,9 @@ The project is organized into several files, each with a specific role:
   - Creates, trains and evaluates the customized model.
   - Displays classification reports, confusion matrices and demo.
 
-- **requirements.txt :** 
+- **requirements.txt** 
 
-- **README.md :** 
+- **README.md** 
 
 
 ## Author
